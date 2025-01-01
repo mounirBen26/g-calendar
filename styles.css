@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 800px; /* Set your desired width */
+    height: 400px; /* Set your desired height */
+    overflow: auto;
+    font-family: Arial, sans-serif;
+  }
+
+  .container {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
